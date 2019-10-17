@@ -3,9 +3,9 @@ Choose a self-explaining name for your project.
 
 ### Project Team
 Help us give you the thanks you deserve! Please ensure that all contributing members of the team are included!
-* Team Leader(s):
-* GitHub Scribe(s):
-* List of all Contributors:
+* Team Leader(s): Adam Kramer
+* GitHub Scribe(s): Allison Letts
+* List of all Contributors: TJ Warfield, Suzanne Veiga, John Brandolini, Michael Smith
 
 ### Project Vision (Your first task as a team)
 Let people know what the value and intended benefits of your project are. The most successful projects will have an extremely clear and well-articulated vision. Answer these questions before you start talking about solutions:
@@ -14,6 +14,8 @@ Let people know what the value and intended benefits of your project are. The mo
 * A year from now, how do you see people describing your project?
 
 Use these questions to form a clear vision statement of 3-5 sentences (rough guideline). 
+
+The Opportunity Contact Roles team is concerned with planning for the future of Opportunity Contact Roles now that they're a full object. We seek to create documentation about the current state of the object, and next steps for migration and future enablement.
 
 Having trouble? Salesforce.org staff and your fellow sprinters are here to help! Use one of your table's request signs and/or post in the Quip Chat to seek help, and we'll pop by.
 
