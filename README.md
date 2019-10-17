@@ -15,7 +15,7 @@ Let people know what the value and intended benefits of your project are. The mo
 
 Use these questions to form a clear vision statement of 3-5 sentences (rough guideline). 
 
-The Opportunity Contact Roles team is concerned with planning for the future of Opportunity Contact Roles now that they're a full object. We seek to create documentation about the current state of the object, and next steps for migration and future enablement.
+The Opportunity Contact Roles team is concerned with planning for the future of Opportunity Contact Roles now that they're a full object. We seek to share knowledge about the current (new and improved) state of the object, and next steps for migration and future enablement. We want current admins who use Opportunity Contact Roles to be aware of potential changes in the surrounding object model.
 
 Having trouble? Salesforce.org staff and your fellow sprinters are here to help! Use one of your table's request signs and/or post in the Quip Chat to seek help, and we'll pop by.
 
